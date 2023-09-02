@@ -8,7 +8,7 @@
   {
     "desc": "Grant read access to lkc-agent",
     "principal": "cc-secret",
-    "action": "GET",
+    "action": "DELETE",
     "resource": "secret/*"
   }
 ]

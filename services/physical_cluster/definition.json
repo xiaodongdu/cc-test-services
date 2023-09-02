@@ -4,3 +4,4 @@
   "cloud_provider": ["aws", "gcp", "azure"],
   "principle": "psc-sync-agent"
 }
+
