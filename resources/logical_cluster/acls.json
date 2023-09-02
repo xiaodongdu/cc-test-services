@@ -4,5 +4,11 @@
     "principal": "cc-lkc-agent",
     "action": "GET",
     "resource": "logical_cluster/*"
+  },
+  {
+    "desc": "Grant read access to lkc-agent",
+    "principal": "cc-secret",
+    "action": "DELETE",
+    "resource": "secret/*"
   }
 ]
