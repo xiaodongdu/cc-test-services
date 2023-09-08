@@ -1,0 +1,6 @@
+{
+  "name": "physical_cluster",
+  "version": "v1",
+  "schema": "https://github.com/confluentinc/events-schema/blob/master/proto/cloud/v1/physical_cluster.proto",
+  "dataContentType": "PROTOBUF_BINARY"
+}
