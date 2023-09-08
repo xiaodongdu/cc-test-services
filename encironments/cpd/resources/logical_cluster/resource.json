@@ -2,5 +2,6 @@
   "name": "logical_cluster",
   "version": "v1",
   "schema": "https://github.com/confluentinc/events-schema/blob/master/proto/cloud/v1/logical_cluster.proto",
-  "dataContentType": "PROTOBUF_BINARY"
+  "dataContentType": "PROTOBUF_BINARY",
+  "environment": ["cpd", "stag", "dev", "prod"]
 }

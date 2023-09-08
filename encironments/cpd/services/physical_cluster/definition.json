@@ -1,5 +1,6 @@
 {
   "name": "physical-cluster-agent",
+  "environment": "cpd",
   "cloud_provider": ["aws", "gcp", "azure"],
   "principle": "psc-sync-agent"
 }
