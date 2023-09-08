@@ -1,0 +1,27 @@
+[
+  {
+    "desc": "Grant read access to psc-agent",
+    "principal": "cc-psc-agent",
+    "action": "GET",
+    "resource": "physical_cluster/*"
+  },
+  {
+    "desc": "Grant read access to psc-agent",
+    "principal": "cc-psc-agent",
+    "action": "UPSERT",
+    "resource": "physical_cluster/*"
+  },
+  {
+    "desc": "Grant read access to psc-agent",
+    "principal": "cc-psc-agent",
+    "action": "DELETE",
+    "resource": "physical_cluster/*"
+  },
+  {
+
+    "desc": "Grant read access to psc-agent",
+    "principal": "cc-psc-agent",
+    "action": "DELETE",
+    "resource": "physical_cluster/*"
+  }
+]
