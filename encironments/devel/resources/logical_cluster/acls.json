@@ -3,14 +3,12 @@
     "desc": "Grant read access to lkc-agent",
     "principal": "cc-lkc-agent",
     "action": "GET",
-    "resource": "logical_cluster/*",
-    "environment": ["cpd", "stag", "dev", "prod"]
+    "resource": "logical_cluster/*"
   },
   {
     "desc": "Grant read access to lkc-agent",
     "principal": "cc-secret",
     "action": "DELETE",
-    "resource": "secret/*",
-    "environment": ["cpd", "stag", "dev", "prod"]
+    "resource": "secret/*"
   }
 ]
